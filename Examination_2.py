@@ -7,3 +7,8 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 height = int(input())
+if height>=140:
+print ("can Ride")
+else:
+height<=140:
+print ("cannot Ride")
